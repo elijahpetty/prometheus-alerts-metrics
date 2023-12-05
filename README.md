@@ -69,3 +69,7 @@ There will be a few tables in the panels tab. The main ones are `prometheus_aler
 ## Related apps
 
 This app is built off of 2 previous existing apps, [Prometheus Alerts](https://github.com/deephaven-examples/prometheus-alerts) and [Prometheus Metrics](https://github.com/deephaven-examples/prometheus-metrics). Feel free to check them out for more Prometheus examples!
+
+## Note
+
+The code in this repository is built for Deephaven Community Core v0.12.0. No guarantee of forwards or backwards compatibility is given.
